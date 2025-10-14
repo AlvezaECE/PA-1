@@ -30,7 +30,7 @@ variables.
 - Split was used to break the sentences into words, then I used join to rebuild the sentences after replacing words with their emoticons.
 - I used python's unpacking syntax to capture different parts of the list.
 
-## Applications
+## APPLICATIONS
 ### Each programs shown have their own essential programming concepts.
 - Where sorting and string manipulation in Alphabet Soup Problem could be applied in task such as detecting anagrams, auto-correct systems, etc.
 - Emoticon Problem introduces us the the idea of mapping words using dictionaries. This is how keyword-triggered responses are built in chatbots.
@@ -39,7 +39,7 @@ variables.
 # Conclusion
 - The programs shown highlights the basic features of Python which are: string manipulation, using dictionaries, and unpacking. Wherein each of these programs have their own essential concept in Python. 
 
-## For Future Work
+## FOR FUTURE WORK
 ### Alphabet Soup Problem
 - We can extend to handle case-sensitive sorting. We can sort "Hello" and "hello" the same.
 - We can sort an entire sentence instead of single words.
