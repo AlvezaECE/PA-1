@@ -4,7 +4,8 @@
 1. To identify the basic codes and functions in Python Programming
 2. To be able to apply the different codes and functions in creating a Python program
 
-## ALPHABET SOUP PROBLEM
+## ALPHABET SOUP PROBLEM 
+### This demonstrates string manipulation and sorting. Using Python's built-in sorted() function to take a string and sort its characters alphabetically.
 - Create a function that takes a string and returns a string with its letters
 in alphabetical order.
 - Example: alphabet_soup(“hello”) ➞ ehllo, 
